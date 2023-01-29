@@ -17,6 +17,12 @@
       },
       "api": {
         "nextamplified": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d21i5hdrm1i90i",
+          "type": "manual"
+        }
       }
     }
   }
